@@ -14,3 +14,9 @@
 - [ ] Concevoir un portail pédagogique unique dont la page d’accueil propose les parcours 1ère année et 2ème année.
 - [ ] Créer une navigation strictement séparée pour les chapitres S1 et les chapitres S2 au sein du même site.
 - [ ] Vérifier que chaque parcours du site reprend exactement la progression et les contenus essentiels de ses FE correspondantes.
+- [ ] Construire une version statique autonome compatible avec Cloudflare Pages.
+- [ ] Ajouter les règles de réécriture nécessaires aux routes des parcours 1ère et 2ème année.
+- [ ] Générer une archive ZIP prête à importer dans Cloudflare Pages.
+- [ ] Exporter le projet vers un dépôt GitHub dédié afin d’en faire la source de vérité externe.
+- [ ] Relier le dépôt GitHub à un projet Cloudflare Pages pour déclencher un déploiement à chaque envoi de version.
+- [ ] Documenter les réglages de build et la méthode de synchronisation après chaque modification validée.
