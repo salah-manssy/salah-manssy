@@ -31,4 +31,5 @@
 - [x] Remplacer le sigle STEM par STIM sur la page de garde.
 - [x] Mettre « Choisis ton année. Garde ton fil. » sur une seule ligne transversale.
 - [x] Placer l’information sur les cours disponibles sous les trois cartes d’année.
-- [ ] Vérifier puis publier la correction de composition sur Cloudflare.
+- [x] Vérifier puis publier la correction de composition sur Cloudflare.
+- [ ] Retirer « Garde ton fil. » du titre transversal de la page de garde.

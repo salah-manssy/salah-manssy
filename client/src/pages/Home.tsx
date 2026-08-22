@@ -25,7 +25,7 @@ export default function Home() {
       </section>
 
       <section className="stem-catalogue" id="parcours">
-        <div className="stem-sectionhead stim-sectionhead"><p>PARCOURS DISPONIBLES</p><h2>Choisis ton année. Garde ton fil.</h2></div>
+        <div className="stem-sectionhead stim-sectionhead"><p>PARCOURS DISPONIBLES</p><h2>Choisis ton année.</h2></div>
         <div className="stem-year-grid">
           {[1, 2].map((year) => {
             const course = courseYears[year as 1 | 2];
