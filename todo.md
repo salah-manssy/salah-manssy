@@ -1,0 +1,16 @@
+- [ ] Analyser le brouillon de site du chapitre 1 pour identifier les éléments à préserver : structure, ton, rythme, navigation et interactivité.
+- [ ] Distinguer les limites du brouillon et les améliorations nécessaires pour un site durable et cohérent avec les syllabi.
+- [ ] Extraire la structure récurrente des cours S1 et S2, en particulier la logique de notions courtes suivies de questions du cours S2.
+- [ ] Proposer une charte unique assurant la correspondance exacte entre progression papier et progression web.
+- [ ] Préserver strictement la palette Terminal / Code des présentations dans toute proposition web.
+- [ ] Rédiger le texte complet du chapitre pilote S1 « Au cœur de la machine » selon le gabarit notion courte puis consolidation.
+- [ ] Prévoir les illustrations et schémas imprimables nécessaires sans créer le site avant validation du texte.
+- [ ] Proposer les questions de compréhension, l’activité de transfert et le bilan de chapitre au même niveau que les notions.
+- [ ] Soumettre le chapitre pilote sous forme de texte pour validation avant les livrables papier et web.
+- [ ] Produire une feuille élève (FE) complète pour chacun des huit chapitres de 1ère secondaire.
+- [ ] Produire une feuille professeur corrigée (PF) associée à chacun des huit chapitres de 1ère secondaire.
+- [ ] Produire une feuille élève (FE) complète pour chacun des huit chapitres de 2ème secondaire.
+- [ ] Produire une feuille professeur corrigée (PF) associée à chacun des huit chapitres de 2ème secondaire.
+- [ ] Concevoir un portail pédagogique unique dont la page d’accueil propose les parcours 1ère année et 2ème année.
+- [ ] Créer une navigation strictement séparée pour les chapitres S1 et les chapitres S2 au sein du même site.
+- [ ] Vérifier que chaque parcours du site reprend exactement la progression et les contenus essentiels de ses FE correspondantes.
