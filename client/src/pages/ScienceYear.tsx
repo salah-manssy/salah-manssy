@@ -20,7 +20,7 @@ export default function ScienceYear() {
   const next = science3Chapters[index + 1];
   const choose = (item: ScienceChapter) => { setChapter(item); setMenuOpen(false); window.scrollTo({ top: 0, behavior: "smooth" }); };
   return <div className="cosmo-course">
-    <header className="cosmo-mobile"><Link href="/" className="cosmo-mini"><Sparkles size={17} /> STEM</Link><button onClick={() => setMenuOpen(!menuOpen)} aria-label="Ouvrir les chapitres">{menuOpen ? <X /> : <Menu />}</button></header>
+    <header className="cosmo-mobile"><Link href="/" className="cosmo-mini"><Sparkles size={17} /> STIM</Link><button onClick={() => setMenuOpen(!menuOpen)} aria-label="Ouvrir les chapitres">{menuOpen ? <X /> : <Menu />}</button></header>
     <aside className={`cosmo-sidebar ${menuOpen ? "open" : ""}`}>
       <Link href="/" className="cosmo-lockup"><span className="cosmo-orbit">✦</span><span>SCIENCES<br /><b>3E</b></span></Link>
       <div className="cosmo-year"><span>PARCOURS SCIENTIFIQUE</span><strong>3ème année</strong><p>Observer · comprendre · vérifier</p></div>
@@ -30,7 +30,7 @@ export default function ScienceYear() {
     </aside>
     <main className="cosmo-main">
       <section className="cosmo-hero" style={{ backgroundImage: "linear-gradient(90deg,rgba(5,13,40,.98),rgba(5,13,40,.6)),url(/manus-storage/cosmo_labo_ch1_bg_605061f9.png)" }}>
-        <Link href="/" className="cosmo-back"><ArrowLeft size={15} /> portail STEM</Link>
+        <Link href="/" className="cosmo-back"><ArrowLeft size={15} /> portail STIM</Link>
         <div className="cosmo-brand"><Orbit size={17} /> SCIENCES · 3E <i /> {chapter.kicker}</div>
         <p>CHAPITRE {String(chapter.number).padStart(2, "0")}</p><h1>{chapter.title}</h1><div className="cosmo-emojis" aria-hidden="true">🔬&nbsp; 🪐&nbsp; ⭐</div>
         <span className="cosmo-progress" style={{ width: `${((index + 1) / science3Chapters.length) * 100}%` }} />

@@ -96,7 +96,7 @@ export default function ScienceChapterComparison() {
 
   return <main className="science-reader-shell">
     <div className="science-reader-stars" />
-    <header className="science-reader-top"><Link href="/" className="reader-back"><ArrowLeft size={16} /> portail STEM</Link><p>sciences_3e · lecture de validation</p><span>chapitre_01</span></header>
+    <header className="science-reader-top"><Link href="/" className="reader-back"><ArrowLeft size={16} /> portail STIM</Link><p>sciences_3e · lecture de validation</p><span>chapitre_01</span></header>
 
     <section className="science-reader-heading">
       <p className="reader-overline">UAA 1 · Terre dans l’Univers</p>
