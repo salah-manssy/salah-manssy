@@ -1,0 +1,2 @@
+/** Style: compact S3 sidebar download control; uses Cosmo-labo blues and yellow accent without affecting S1/S2. */
+.cosmo-download{display:flex;align-items:center;gap:10px;margin-top:18px;padding:10px;border:1px solid rgba(126,231,255,.45);background:rgba(255,255,255,.06);color:#e6f6ff;text-decoration:none;font:11px/1.3 ui-sans-serif,system-ui}.cosmo-download svg{color:#ffd65b}.cosmo-download b{color:#7ee6ff}@media(max-width:900px){.cosmo-download{margin-bottom:25px}}

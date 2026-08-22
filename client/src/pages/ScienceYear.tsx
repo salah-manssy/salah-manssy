@@ -1,9 +1,10 @@
 /** Design reminder: S3 Cosmo-labo — night-sky science pages with visible learning steps and low-friction checks. */
 import { useState } from "react";
 import { Link } from "wouter";
-import { ArrowLeft, ArrowRight, CheckCircle2, CircleHelp, FlaskConical, Menu, Orbit, Sparkles, X } from "lucide-react";
+import { ArrowLeft, ArrowRight, CheckCircle2, CircleHelp, Download, FlaskConical, Menu, Orbit, Sparkles, X } from "lucide-react";
 import { science3Chapters, ScienceChapter } from "@/data/science3";
 import "../science-year.css";
+import "../science-download.css";
 
 function QuickCheck({ chapter }: { chapter: ScienceChapter }) {
   const [choice, setChoice] = useState<number | null>(null);
@@ -24,6 +25,7 @@ export default function ScienceYear() {
       <Link href="/" className="cosmo-lockup"><span className="cosmo-orbit">✦</span><span>SCIENCES<br /><b>3E</b></span></Link>
       <div className="cosmo-year"><span>PARCOURS SCIENTIFIQUE</span><strong>3ème année</strong><p>Observer · comprendre · vérifier</p></div>
       <nav aria-label="Chapitres de sciences de 3ème"><p>8 CHAPITRES</p>{science3Chapters.map((item) => <button key={item.number} onClick={() => choose(item)} className={item.number === chapter.number ? "active" : ""}><b>{String(item.number).padStart(2, "0")}</b><span>{item.title}</span></button>)}</nav>
+      <a className="cosmo-download" href="/documents/Sciences_3e_CosmoLabo_FE_PF.zip" download><Download size={15} /><span>Pack imprimable<br /><b>FE + PF Cosmo-labo</b></span></a>
       <div className="cosmo-sidefoot"><i />une question<br />une expérience<br />une vérification</div>
     </aside>
     <main className="cosmo-main">
