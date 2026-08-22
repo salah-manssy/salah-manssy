@@ -1,49 +1,52 @@
-/** Design reminder: Terminal pédagogique vivant — a single quiet cover page that clearly separates the two learning paths. */
-import { ArrowRight, BookOpenCheck, ChevronDown, GraduationCap, TerminalSquare } from "lucide-react";
+/** Design reminder: STEM home cover — editorial institution landing page, with each study path keeping its own visual identity. */
+import { ArrowRight, Atom, CircuitBoard, ChevronDown, FlaskConical, Orbit, Sigma } from "lucide-react";
 import { Link } from "wouter";
 import { courseYears } from "@/data/courses";
+import { science3Chapters } from "@/data/science3";
+import "../stem-home.css";
 
 export default function Home() {
   return (
-    <main className="portal-home">
-      <div className="grid-noise" />
-      <header className="portal-nav">
-        <div className="brand-lockup"><img src="/manus-storage/cours-numerique-logo_b036668f.png" alt="Logo Numérique FMTTN" /><span>NUMERIQUE<br /><b>FMTTN</b></span></div>
-        <p>cours_pedagogique / belgique / FWB</p>
+    <main className="stem-home">
+      <header className="stem-nav">
+        <Link href="/" className="stem-brand"><span>✦</span><b>STEM</b><i>FRANS FISCHER</i></Link>
+        <p>Institut Communal Technique Frans Fischer</p>
       </header>
 
-      <section className="portal-hero">
-        <div className="hero-copy">
-          <p className="eyebrow green">&gt;_ boot_sequence</p>
-          <h1>Comprendre<br />le numérique<span className="cursor">_</span></h1>
-          <p className="hero-lead">Un seul portail. Deux parcours. Des notions courtes pour comprendre, tester son raisonnement et progresser sans perdre le fil.</p>
-          <div className="hero-meta"><span><TerminalSquare size={17} />16 chapitres</span><span><BookOpenCheck size={17} />notion → test → mission</span><span><GraduationCap size={17} />1ère + 2ème</span></div>
+      <section className="stem-hero">
+        <div className="stem-hero-copy">
+          <p>PORTAIL PÉDAGOGIQUE · SCIENCES &amp; NUMÉRIQUE</p>
+          <h1>Regarder.<br /><em>Comprendre.</em><br />Construire.</h1>
+          <p className="stem-lead">Un lieu pour explorer les sciences, la technologie, l’ingénierie et les mathématiques. Chaque parcours avance à son rythme : une question claire, une notion utile, une activité et une vérification.</p>
+          <div className="stem-hero-meta"><span><FlaskConical size={17} />sciences</span><span><CircuitBoard size={17} />technologie</span><span><Atom size={17} />ingénierie</span><span><Sigma size={17} />mathématiques</span></div>
         </div>
-        <img className="hero-visual" src="/manus-storage/cours-numerique-hero_234afba1.jpg" alt="Illustration abstraite représentant l’apprentissage du numérique" />
+        <div className="stem-hero-orbit" aria-hidden="true"><span className="planet p1">🔬</span><span className="planet p2">⚡</span><span className="planet p3">🧬</span><span className="planet p4">🪐</span><i /></div>
       </section>
 
-      <section className="choice-section" id="parcours">
-        <div className="choice-intro"><p className="eyebrow blue">&gt;_ choisir_ton_parcours</p><h2>Où commences-tu ?</h2><p>Choisis ton année pour ouvrir son sommaire. Les contenus restent séparés, mais la méthode de travail et l’identité visuelle sont communes.</p></div>
-        <div className="year-choices">
+      <section className="stem-catalogue" id="parcours">
+        <div className="stem-sectionhead"><p>PARCOURS DISPONIBLES</p><h2>Choisis ton année.<br />Garde ton fil.</h2><span>Les cours déjà disponibles sont proposés ci-dessous. Les autres univers STEM arrivent progressivement.</span></div>
+        <div className="stem-year-grid">
           {[1, 2].map((year) => {
             const course = courseYears[year as 1 | 2];
-            return <Link key={year} href={`/annee/${year}`} className={`year-choice y${year}`}>
-              <div className="year-image-wrap"><img src={course.image} alt="" /></div>
-              <div className="year-choice-content"><p>parcours_{year}</p><h3>{course.label}</h3><strong>{course.title}</strong><span>{course.subtitle}</span><em>ouvrir le sommaire <ArrowRight size={17} /></em></div>
+            return <Link key={year} href={`/annee/${year}`} className={`stem-year-card s${year}`}>
+              <div className="stem-card-top"><span>0{year}</span><i>{year === 1 ? "◌" : "▣"}</i></div>
+              <p>{year === 1 ? "NUMÉRIQUE · BLEU & ROSE" : "NUMÉRIQUE · TERMINAL / CODE"}</p><h3>{course.label}</h3><strong>{course.title}</strong><span>{course.subtitle}</span><em>ouvrir le parcours <ArrowRight size={17} /></em>
             </Link>;
           })}
+          <Link href="/sciences/3" className="stem-year-card s3">
+            <div className="stem-card-top"><span>03</span><i>✦</i></div><p>SCIENCES · COSMO-LABO</p><h3>3ème année</h3><strong>Observer pour comprendre</strong><span>Terre, lumière, cellule, système nerveux, matière, combustion et électricité.</span><em>{science3Chapters.length} chapitres <ArrowRight size={17} /></em>
+          </Link>
         </div>
       </section>
 
-      <section className="method-strip">
-        <p className="eyebrow yellow">&gt;_ la_methode</p>
-        <div><span>01</span><p><b>Voir</b> une situation, un schéma ou un exemple.</p></div>
-        <div><span>02</span><p><b>Comprendre</b> une notion claire et courte.</p></div>
-        <div><span>03</span><p><b>Vérifier</b> son raisonnement par une question.</p></div>
-        <div><span>04</span><p><b>Appliquer</b> dans une mission de chapitre.</p></div>
+      <section className="stem-universes">
+        <div><span><FlaskConical /></span><p>SCIENCES</p><small>Observer le monde vivant, la matière, la lumière et l’énergie.</small></div>
+        <div><span><CircuitBoard /></span><p>TECHNOLOGIE</p><small>Comprendre les objets, les outils, les systèmes et leurs usages.</small></div>
+        <div><span><Orbit /></span><p>INGÉNIERIE</p><small>Imaginer, tester, améliorer et expliquer une solution.</small></div>
+        <div><span><Sigma /></span><p>MATHÉMATIQUES</p><small>Mesurer, raisonner, représenter et résoudre des problèmes.</small></div>
       </section>
 
-      <footer className="portal-footer"><span>NUMERIQUE::FMTTN</span><span>terminal_pedagogique_v1.0</span><a href="#parcours"><ChevronDown size={15} />choisir une année</a></footer>
+      <footer className="stem-footer"><span>STEM · Institut Communal Technique Frans Fischer</span><span>apprendre avec méthode</span><a href="#parcours"><ChevronDown size={15} />voir les parcours</a></footer>
     </main>
   );
 }

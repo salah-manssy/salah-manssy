@@ -20,3 +20,11 @@
 - [ ] Exporter le projet vers un dépôt GitHub dédié afin d’en faire la source de vérité externe.
 - [ ] Relier le dépôt GitHub à un projet Cloudflare Pages pour déclencher un déploiement à chaque envoi de version.
 - [ ] Documenter les réglages de build et la méthode de synchronisation après chaque modification validée.
+- [ ] Produire en priorité une archive ZIP Cloudflare autonome afin que le site puisse être déposé sans connexion GitHub.
+- [ ] Publier une branche GitHub contenant uniquement la version statique autonome destinée à Cloudflare Pages.
+- [ ] Relier Cloudflare Pages au dépôt `salah-manssy/salah-manssy` et à cette branche statique.
+- [ ] Faire évoluer ultérieurement la page d’accueil vers une entrée générale Sciences, Technologie et Numérique.
+- [ ] Prévoir des rubriques séparées pour les futurs cours de sciences et de technologie sans modifier le parcours numérique existant.
+- [ ] Renommer le projet Pages public en `salah-manssy` après avoir libéré ce nom de l’ancien déploiement direct défaillant.
+- [ ] Créer un nouveau projet Pages depuis la branche `cloudflare-pages` afin d’obtenir l’adresse exacte `salah-manssy.pages.dev`.
+- [ ] Ne retirer l’actuel projet `stem-35r` qu’après validation complète de la nouvelle adresse publique.

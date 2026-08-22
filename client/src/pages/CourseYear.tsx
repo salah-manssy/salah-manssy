@@ -62,7 +62,7 @@ export default function CourseYear({ year }: { year: CourseYearType }) {
   };
 
   return (
-    <div className="course-shell">
+    <div className={`course-shell course-s${year}`}>
       <header className="course-mobilebar">
         <Link href="/" className="brand-mini"><img src="/manus-storage/cours-numerique-logo_b036668f.png" alt="" /> NUMERIQUE::FMTTN</Link>
         <button onClick={() => setMenuOpen(!menuOpen)} aria-label="Ouvrir le sommaire">{menuOpen ? <X /> : <Menu />}</button>
@@ -77,7 +77,7 @@ export default function CourseYear({ year }: { year: CourseYearType }) {
         <div className="sidebar-foot"><span className="pulse-dot" />progression visible<br />une notion, puis un test</div>
       </aside>
 
-      <main className="lesson-main">
+      <main className={`lesson-main lesson-s${year}`}>
         <div className="grid-noise" />
         <section className="lesson-head">
           <Link href="/" className="back-link"><ArrowLeft size={15} /> page_de_garde</Link>
