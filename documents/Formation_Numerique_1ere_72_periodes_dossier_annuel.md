@@ -1,86 +1,36 @@
 # Formation numérique — 1ère année
 
-## Dossier annuel — Feuilles élève
+## Version enrichie sans ateliers — 72 périodes de 50 minutes
 
----
+## Document d’intention pédagogique
 
-# DOCUMENT D’INTENTION PÉDAGOGIQUE (DIP)
+Cette version conserve le cours papier autonome sans dépendre d’un accès garanti à des ordinateurs. Elle est enrichie de douze périodes supplémentaires de réinvestissement guidé, de lecture de documents, de résolution de situations concrètes, de consolidation et de préparation aux évaluations. Aucun ajout n’a été conçu pour remplir artificiellement le temps : chaque séquence supplémentaire permet de mettre en pratique une notion déjà rencontrée.
 
-## Formation numérique — 1ère année
+## Répartition annuelle
 
-## 1. Intention générale
+| Chapitre | Périodes de base | Enrichissement | Total |
+|---:|---:|---:|---:|
+| 1. Au cœur de la machine | 10 | 2 | 12 |
+| 2. Connectés au monde | 7 | 1 | 8 |
+| 3. Communiquer et collaborer | 6 | 1 | 7 |
+| 4. Créer et produire | 8 | 2 | 10 |
+| 5. Chercher et vérifier | 7 | 1 | 8 |
+| 6. Vie privée, sécurité et droits | 7 | 2 | 9 |
+| 7. Intelligence artificielle | 7 | 1 | 8 |
+| 8. Algorithmique et programmation | 8 | 2 | 10 |
+| **Total** | **60** | **12** | **72** |
 
-Ce cours a pour objectif de former des élèves capables de comprendre, d’utiliser et de créer avec les outils numériques de manière autonome, responsable et réfléchie. Le numérique n’est pas présenté comme une suite de boutons à mémoriser : les élèves apprennent à reconnaître le rôle des outils, à choisir une méthode adaptée, à vérifier une information et à expliquer leurs choix.
+## Nature des douze périodes supplémentaires
 
-Le cours part de situations proches de leur quotidien : utiliser une tablette, ranger des fichiers, rechercher une information, préparer un diaporama, protéger un compte, comprendre un résultat produit par une intelligence artificielle ou créer un petit programme. Les notions techniques trouvent ainsi un sens concret avant d’être réinvesties dans des exercices et des activités guidées.
+Les prolongements sont tous faisables sur papier : fiche technique, analyse de situation, lecture de document, tri d’informations, préparation d’un message, dossier d’enquête, règle logique, écriture d’algorithme ou débogage guidé. Lorsque du matériel informatique deviendra disponible, ces mêmes séquences pourront être prolongées par des exercices jouables, des démonstrations ou des ateliers ; le cours ne devra pas être réécrit.
 
-## 2. Attendus annuels
+## Règle de construction des chapitres
 
-| Attendu | Ce que cela signifie dans le cours |
-|---|---|
-| Comprendre le fonctionnement des outils numériques | Distinguer matériel, logiciel, système d’exploitation, périphériques, réseau, stockage et fichier. |
-| Produire des contenus lisibles | Mettre en forme un texte, choisir une police et un alignement, organiser un document, utiliser des images et préparer un diaporama. |
-| Chercher et vérifier une information | Construire une recherche précise, reconnaître une source identifiable, comparer des informations et éviter de relayer une affirmation non vérifiée. |
-| Communiquer et collaborer | Choisir l’outil adapté, rédiger un message clair, partager un document et respecter les autres dans les espaces numériques. |
-| Adopter un usage responsable | Protéger ses données, sécuriser ses comptes, respecter les droits liés aux contenus et réagir face à une situation problématique. |
-| Comprendre les systèmes automatisés | Identifier des usages de l’intelligence artificielle, écrire une consigne claire, vérifier un résultat et programmer un comportement simple. |
-
-## 3. Méthode de travail
-
-Chaque chapitre suit le même rythme. Une notion est expliquée avec des mots simples, un tableau ou un exemple du quotidien. Des exercices courts arrivent ensuite immédiatement : texte lacunaire, classement, association, choix guidé, tableau, situation concrète ou production courte. L’élève ne doit donc pas attendre la fin d’un long cours pour vérifier qu’il a compris.
-
-Les exercices deviennent progressivement plus autonomes. Une activité guidée permet enfin de réutiliser plusieurs notions dans une tâche complète. Le chapitre se termine par une synthèse et une autoévaluation ; les réponses détaillées et les pistes de remédiation appartiendront à la feuille professeur, jamais à la feuille élève.
-
-## 4. Progression annuelle
-
-| Chapitre | Titre | Fil conducteur | Production ou réinvestissement |
-|---:|---|---|---|
-| 1 | Au cœur de la machine | Comprendre de quoi est composé un appareil et comment il range l’information. | Ranger un dossier de travail et identifier les composants utiles. |
-| 2 | Connectés au monde | Comprendre Internet, le Web et la circulation d’une demande. | Expliquer le trajet d’une page Web entre client et serveur. |
-| 3 | Communiquer et collaborer | Choisir le bon outil et communiquer avec clarté. | Rédiger un e-mail utile et organiser un document partagé. |
-| 4 | Créer et produire | Mettre en forme un texte et soutenir une présentation orale. | Produire une mini-présentation lisible avec des sources indiquées. |
-| 5 | Chercher et vérifier | Rechercher avec précision et vérifier avant de partager. | Comparer des sources et justifier un choix. |
-| 6 | Vie privée, sécurité et droits | Protéger ses traces, ses comptes et le travail des autres. | Réagir à des situations numériques concrètes et choisir un comportement sûr. |
-| 7 | Intelligence artificielle | Utiliser l’IA avec méthode, recul et transparence. | Écrire une consigne précise puis vérifier et améliorer un résultat. |
-| 8 | Algorithmique et programmation | Décrire une logique, programmer, tester et déboguer. | Concevoir le plan puis le prototype d’un mini-jeu Scratch. |
-
-## 5. Compétences transversales développées
-
-| Compétence | Manifestation attendue |
-|---|---|
-| Pensée critique | L’élève ne confond pas un premier résultat, une publicité ou une réponse d’IA avec une information certaine. |
-| Créativité | L’élève choisit une forme, une image ou une organisation qui aide réellement le destinataire à comprendre. |
-| Autonomie | L’élève range ses fichiers, suit une procédure, vérifie son travail et demande une aide précise lorsque c’est nécessaire. |
-| Collaboration | L’élève partage un document de manière claire, respecte les contributions des autres et communique sans blesser. |
-| Responsabilité numérique | L’élève protège les informations personnelles, respecte les droits sur les contenus et adopte une attitude prudente en ligne. |
-
-## 6. Ressources et prolongements numériques
-
-Le papier sert à comprendre, à s’entraîner et à préparer les gestes. Des ressources numériques peuvent ensuite prolonger la séance : activités de classe, parcours de consolidation et exercices interactifs. Ces outils ne remplacent pas la réflexion écrite ; ils permettent de s’exercer autrement et d’adapter le niveau de difficulté lorsque cela est utile.
-
-## 7. Évaluation et suivi
-
-Les évaluations seront construites sur le même principe que le cours : une situation compréhensible, des consignes explicites, des questions progressives et des tâches courtes qui vérifient une compétence précise. Les évaluations seront préparées dans un second temps à partir du canevas maître fourni par l’enseignant.
-
----
-
-## Sommaire des chapitres
-
-1. Au cœur de la machine
-2. Connectés au monde
-3. Communiquer et collaborer
-4. Créer et produire : traitement de texte et présentation
-5. Chercher et vérifier
-6. Vie privée, sécurité et droits
-7. Intelligence artificielle
-8. Algorithmique et programmation
-
----
+Chaque chapitre conserve les explications courtes, les exemples du quotidien, les exercices A/B/C progressifs, les approfondissements guidés, le réinvestissement sur papier, la synthèse et l’autoévaluation. Les corrigés détaillés n’apparaissent jamais dans les feuilles élève.
 
 
 ---
 
----
 
 ## Chapitre 1 — Au cœur de la machine
 
@@ -374,7 +324,59 @@ Complète avec **taille d’un fichier** ou **capacité de stockage**.
 
 ---
 
-## Activité guidée — Je prépare mon dossier de travail
+## 6. Comprendre l’appareil un peu plus loin
+
+Un ordinateur n’est pas une boîte magique : ses composants coopèrent. La **carte mère** relie les principales pièces. Le **disque** ou le **SSD** garde les fichiers. La **carte graphique**, lorsqu’il y en a une, aide à produire les images, les vidéos et les jeux. Sur un smartphone, l’écran tactile, les capteurs, la batterie et la caméra jouent aussi un rôle important.
+
+Tu peux rencontrer les mots **GPU** et **NPU** dans une publicité. Le GPU est particulièrement utile pour les images, la vidéo et certains jeux. Le NPU est un processeur spécialisé dans certaines tâches d’intelligence artificielle. Il ne faut pas retenir des détails techniques : l’idée importante est qu’un appareil peut utiliser plusieurs composants spécialisés pour être plus efficace.
+
+Les appareils numériques utilisent aussi de très petites règles logiques. Pense à une porte qui s’ouvre si la carte est valable **ET** si le code est correct. Le mot **ET** demande que deux conditions soient vraies. Le mot **OU** accepte au moins une condition. Le mot **NON** inverse une réponse. Ces règles prépareront le chapitre sur l’algorithmique.
+
+### Exercice P — Je relie le composant à son rôle
+
+Relie chaque mot à la bonne proposition.
+
+| Mot |  | Rôle simplifié |
+|---|---|---|
+| 1. Carte mère |  | A. Garde durablement les fichiers. |
+| 2. SSD ou disque |  | B. Relie les principaux composants. |
+| 3. GPU |  | C. Aide au traitement des images et de la vidéo. |
+| 4. NPU |  | D. Aide certaines tâches d’intelligence artificielle. |
+
+### Exercice Q — Je complète la règle
+
+1. La porte s’ouvre si la carte est valable **ET** si le code est correct. Les deux conditions doivent être .................................................. .
+2. Pour recevoir une alerte, il suffit qu’un capteur de fumée **OU** un capteur de chaleur se déclenche. Une seule condition peut être .................................................. .
+3. Le mot **NON** sert à .................................................. une réponse.
+
+---
+
+## Approfondissement guidé sur papier — 2 périodes
+
+### Période supplémentaire 1 — Lire la fiche d’un appareil
+
+Un élève hésite entre deux appareils. La fiche A indique : « 8 Go de RAM, 256 Go de stockage, processeur récent, écran tactile ». La fiche B indique : « 4 Go de RAM, 64 Go de stockage, batterie amovible, écran plus petit ». Il ne s’agit pas de dire qu’un appareil est toujours meilleur qu’un autre : il faut d’abord savoir pour quel usage il est choisi.
+
+### Exercice R — Je lis une fiche technique
+
+1. Dans quelle fiche le stockage est-il le plus grand ? .................................................. .
+2. Quel nombre concerne la RAM dans la fiche A ? .................................................. .
+3. Pour conserver beaucoup de photos, quel élément faut-il particulièrement regarder ? .................................................. .
+4. Écris une question utile à poser avant de choisir un appareil : .................................................. .
+
+### Période supplémentaire 2 — Décrire une décision logique
+
+Une application autorise l’accès à un dossier si le nom d’utilisateur est reconnu **ET** si le mot de passe est correct. Une alerte est envoyée si la batterie est très faible **OU** si l’appareil surchauffe.
+
+### Exercice S — Je lis la règle
+
+1. Dans la première règle, l’accès est-il autorisé si seul le mot de passe est correct ? .................................................. .
+2. Dans la deuxième règle, l’alerte peut-elle être envoyée si une seule situation est vraie ? .................................................. .
+3. Écris une règle de ton quotidien avec **ET** ou **OU** : .................................................. .
+
+---
+
+## Réinvestissement guidé sur papier — Je prépare mon dossier de travail
 
 Tu dois préparer un mini-dossier sur un sujet de ton choix : un sport, un animal, un jeu vidéo, une invention ou un lieu. Le dossier contient un texte court, une image et une version finale à partager.
 
@@ -445,7 +447,9 @@ Complète les phrases avec les mots qui conviennent.
 | comparer des tailles de fichiers | □ | □ | □ |
 | organiser un dossier de travail | □ | □ | □ |
 
+
 ---
+
 
 ## Chapitre 2 — Connectés au monde
 
@@ -645,7 +649,52 @@ Entoure ou recopie deux éléments qui doivent te faire vérifier le message :
 
 ---
 
-## Activité guidée — Le trajet d’une invitation numérique
+## 5. Serveurs et cloud
+
+Lorsque tu regardes une vidéo, envoies un message ou sauvegardes une photo, ton appareil échange souvent avec un **serveur**. Un serveur est un ordinateur conçu pour rendre un service à d’autres appareils. Le mot **cloud** désigne des services et des fichiers accessibles à distance par Internet : ils ne sont pas « dans le ciel », mais sur des serveurs situés quelque part.
+
+Le cloud est pratique pour retrouver un document ou partager un travail. Il faut toutefois vérifier ce que l’on partage, avec qui et si l’on garde une copie importante. Une connexion filaire, le Wi-Fi et le réseau mobile sont trois façons différentes d’accéder à un réseau.
+
+### Exercice L — Je classe les exemples
+
+Classe chaque exemple : **serveur**, **cloud**, **connexion** ou **appareil**.
+
+| Exemple | Catégorie |
+|---|---|
+| Une tablette de classe |  |
+| Le Wi-Fi de l’école |  |
+| Un espace où un groupe conserve un document |  |
+| Un ordinateur qui envoie une page Web demandée |  |
+
+### Exercice M — Je choisis le bon réflexe
+
+1. Un document important est partagé dans le cloud. Je dois aussi :
+   - □ vérifier les droits de partage
+   - □ publier le lien partout
+   - □ supprimer le titre du document
+2. Le Wi-Fi ne fonctionne pas mais un câble est disponible. Je peux essayer :
+   - □ une connexion filaire
+   - □ de changer le nom du site Web
+   - □ de fermer définitivement mon compte
+
+---
+
+## Approfondissement guidé sur papier — 1 période
+
+Un élève ouvre une page Web. Son navigateur envoie une demande, le routeur l’oriente vers le réseau, puis un serveur renvoie la page demandée. Si une étape ne répond pas, il faut chercher où se situe le problème au lieu de conclure trop vite que « tout Internet est cassé ».
+
+### Exercice N — Je mène l’enquête réseau
+
+1. Entoure la bonne chaîne :
+   - □ navigateur → serveur → routeur
+   - □ navigateur → routeur → serveur → navigateur
+   - □ écran → batterie → serveur
+2. Une application de musique fonctionne, mais un seul site ne s’ouvre pas. Le problème vient peut-être : .................................................. .
+3. Le Wi-Fi est absent mais un câble est disponible. Quelle solution peux-tu proposer ? .................................................. .
+
+---
+
+## Réinvestissement guidé sur papier — Le trajet d’une invitation numérique
 
 Tu dois envoyer à ta classe une invitation à une activité. Le message contient un lien vers une page Web. Tu dois expliquer le trajet de l’information et adopter les bons réflexes.
 
@@ -689,7 +738,9 @@ Complète avec les mots qui conviennent : **client – serveur – routeur – I
 | lire un nom de domaine dans une adresse Web | □ | □ | □ |
 | reconnaître des indices d’un lien ou d’un message douteux | □ | □ | □ |
 
+
 ---
+
 
 ## Chapitre 3 — Communiquer et collaborer
 
@@ -887,7 +938,36 @@ Transforme ce message trop brusque en un message poli et clair.
 
 ---
 
-## Activité guidée — Organiser un mini-projet de groupe
+## 5. Travailler ensemble de manière claire
+
+Dans un document partagé, chacun n’a pas toujours le même rôle. Certaines personnes peuvent seulement **lire** ; d’autres peuvent **commenter** ; d’autres encore peuvent **modifier**. Ces différences évitent les erreurs et rendent le travail plus simple à suivre. Avant de partager, il faut choisir le bon droit et donner un nom clair au fichier.
+
+Collaborer ne signifie pas effacer le travail des autres ou copier une idée sans la signaler. Un groupe fonctionne mieux lorsque chaque personne sait ce qu’elle doit faire, peut retrouver le document et communique avec respect.
+
+### Exercice K — Je choisis le droit adapté
+
+Pour chaque situation, choisis : **lecture**, **commentaire** ou **modification**.
+
+1. Une personne doit seulement consulter le travail final : .................................................. .
+2. Un camarade doit proposer des améliorations sans changer le texte : .................................................. .
+3. Le groupe doit compléter ensemble le document : .................................................. .
+
+---
+
+## Approfondissement guidé sur papier — 1 période
+
+Un groupe doit préparer une affiche. L’un des élèves doit rédiger le texte, une autre personne doit relire, et un troisième doit vérifier les sources. Le groupe doit pouvoir retrouver la dernière version sans effacer le travail des autres.
+
+### Exercice L — J’organise le groupe
+
+1. Associe chaque rôle à une action : rédiger, relire, vérifier les sources.
+2. Propose un nom clair pour le document partagé : .................................................. .
+3. Quel droit donner à une personne qui doit uniquement suggérer une correction ? .................................................. .
+4. Écris une phrase respectueuse pour signaler une erreur à un camarade : .................................................. .
+
+---
+
+## Réinvestissement guidé sur papier — Organiser un mini-projet de groupe
 
 Votre groupe prépare une courte présentation sur un sujet de classe. Vous devez choisir les bons outils et les bonnes règles.
 
@@ -937,7 +1017,9 @@ Complète avec : **e-mail – objet – pièce jointe – lien – lecteur – c
 | respecter l’image, la voix et les données des autres | □ | □ | □ |
 | travailler avec d’autres dans un document partagé | □ | □ | □ |
 
+
 ---
+
 
 ## Chapitre 4 — Créer et produire : traitement de texte et présentation
 
@@ -1162,7 +1244,52 @@ Numérote les étapes de 1 à 5.
 
 ---
 
-## Activité guidée — Je prépare une mini-présentation
+## 5. Vérifier avant de rendre
+
+Avant de rendre un texte ou une présentation, il est utile de relire avec les yeux du destinataire. Une police lisible, un titre clair, une image utile et un contraste suffisant aident le lecteur. Certaines personnes, notamment certaines personnes dyslexiques, peuvent préférer une police simple sans empattement et des paragraphes bien espacés. Il ne s’agit pas d’une règle unique : le plus important est de choisir une mise en forme qui facilite vraiment la lecture.
+
+Un document réussi n’est pas celui qui possède le plus de couleurs ou d’effets. C’est celui qui permet de comprendre rapidement une information importante.
+
+### Exercice L — Je vérifie une diapositive
+
+Lis la description : « titre minuscule, fond rouge vif, texte jaune, dix lignes serrées et une image décorative sans source ».
+
+1. Entoure deux problèmes de lisibilité : .................................................. .
+2. Écris une amélioration pour le texte : .................................................. .
+3. Écris une amélioration pour l’image : .................................................. .
+
+---
+
+## Approfondissement guidé sur papier — 2 périodes
+
+### Période supplémentaire 1 — Relire avec les yeux du destinataire
+
+Un document peut être exact mais difficile à lire. Le lecteur doit pouvoir trouver rapidement le titre, distinguer les idées et comprendre les mots importants. Une mise en page ne sert pas à décorer : elle sert à guider la lecture.
+
+### Exercice M — Je transforme le document
+
+On te donne un texte sans titre, écrit en très petit, avec trois couleurs et une phrase de dix lignes.
+
+1. Écris deux modifications de mise en page utiles : .................................................. .
+2. Choisis un alignement adapté pour un paragraphe normal : .................................................. .
+3. Explique pourquoi une police simple et espacée peut aider certains lecteurs : .................................................. .
+
+### Période supplémentaire 2 — Construire le plan d’une présentation
+
+Avant de créer des diapositives, il faut organiser les idées. Une présentation courte peut suivre une structure simple : titre, question, deux ou trois idées principales, exemple, conclusion.
+
+### Exercice N — Je prépare le plan
+
+Classe les éléments suivants dans l’ordre : conclusion, titre, exemple, idées principales.
+
+1. .................................................. .
+2. .................................................. .
+3. .................................................. .
+4. .................................................. .
+
+---
+
+## Réinvestissement guidé sur papier — Je prépare une mini-présentation
 
 Prépare le plan d’un diaporama de quatre diapositives sur un sujet que tu connais : un hobby, un animal, un sport, un lieu ou une invention.
 
@@ -1207,7 +1334,9 @@ Complète avec : **police – alignement – raccourci – source – diapositiv
 | citer une image et respecter les personnes représentées | □ | □ | □ |
 | préparer une diapositive simple et lisible | □ | □ | □ |
 
+
 ---
+
 
 ## Chapitre 5 — Chercher et vérifier
 
@@ -1394,7 +1523,35 @@ Recherche_volcans/
 
 ---
 
-## Activité guidée — Ma mini-enquête
+## 5. Ne pas se laisser guider trop vite
+
+Un moteur de recherche peut afficher une **publicité** ou un contenu **sponsorisé** avant les autres résultats. Ce n’est pas forcément faux, mais ce n’est pas une preuve que le contenu est le plus utile ou le plus fiable. Un titre très surprenant peut aussi chercher surtout à faire cliquer ou réagir.
+
+Avant de partager une information, prends le temps de regarder qui parle, quand le document a été publié, ce qu’il cite et si une autre source sérieuse donne la même information.
+
+### Exercice K — Je repère le signal d’alerte
+
+Pour chaque indice, écris **à vérifier** ou **plutôt rassurant**.
+
+1. Le titre promet une information incroyable sans citer de source : .................................................. .
+2. L’auteur, la date et les références sont clairement indiqués : .................................................. .
+3. Le résultat porte la mention « sponsorisé » : .................................................. .
+
+---
+
+## Approfondissement guidé sur papier — 1 période
+
+Deux articles donnent une information différente sur le même sujet. Le premier article n’indique ni auteur ni date et utilise un titre très alarmant. Le second indique un auteur, une date récente, des sources et explique les limites de son information.
+
+### Exercice L — Je justifie mon choix
+
+1. Quel article semble le plus facile à vérifier ? .................................................. .
+2. Donne deux indices qui justifient ta réponse : .................................................. .
+3. Que ferais-tu avant de partager l’information ? .................................................. .
+
+---
+
+## Réinvestissement guidé sur papier — Ma mini-enquête
 
 Choisis un sujet de cours ou d’actualité adapté. Prépare une petite recherche avant d’utiliser une information.
 
@@ -1442,7 +1599,9 @@ Complète avec : **mot-clé – source – auteur – date – contexte – comp
 | repérer des indices d’une information douteuse | □ | □ | □ |
 | organiser mes sources et mes fichiers | □ | □ | □ |
 
+
 ---
+
 
 ## Chapitre 6 — Vie privée, sécurité et droits
 
@@ -1618,7 +1777,50 @@ Choisis deux gestes qui peuvent aider à garder un bon équilibre numérique.
 
 ---
 
-## Activité guidée — Ma charte de sécurité et de respect
+## 5. Réagir face à une situation inquiétante
+
+La sécurité ne consiste pas seulement à avoir un mot de passe. Il faut aussi savoir s’arrêter lorsqu’un message paraît étrange. Un lien douteux, une pièce jointe inattendue ou une demande urgente de code doivent faire réfléchir. Ne clique pas dans la précipitation : vérifie, demande de l’aide et utilise un autre moyen pour confirmer la demande.
+
+Un **rançongiciel** peut empêcher l’accès à des fichiers et demander de l’argent. Le bon réflexe n’est pas de répondre seul : il faut prévenir rapidement un adulte ou la personne responsable. En cas de cyberharcèlement, garder une preuve, bloquer si nécessaire et parler à un adulte de confiance aide à ne pas rester isolé.
+
+### Exercice K — Je choisis la réaction sûre
+
+1. Un message demande ton code de connexion « tout de suite » :
+   - □ je donne le code pour aller vite
+   - □ je vérifie la demande avec un adulte ou un autre canal
+   - □ je transfère le message à toute la classe
+2. Une personne publie un message blessant :
+   - □ je garde une preuve et je demande de l’aide
+   - □ je réponds en insultant
+   - □ je partage le message pour rire
+
+---
+
+## Approfondissement guidé sur papier — 2 périodes
+
+### Période supplémentaire 1 — Ma décision de sécurité
+
+Tu reçois un message qui affirme : « Ton compte sera fermé dans cinq minutes. Clique ici et donne ton code. » Le message contient un lien inconnu et beaucoup de fautes.
+
+### Exercice L — Je ralentis avant d’agir
+
+1. Écris deux indices qui rendent ce message suspect : .................................................. .
+2. Quelle est la première action sûre ? .................................................. .
+3. À qui peux-tu demander de l’aide ? .................................................. .
+
+### Période supplémentaire 2 — Respecter les autres
+
+Une photo d’un camarade est partagée dans un groupe de classe sans son accord. Des commentaires blessants apparaissent ensuite.
+
+### Exercice M — Je protège la personne
+
+1. Que faut-il éviter de faire ? .................................................. .
+2. Quelles preuves peut-on garder ? .................................................. .
+3. Quelle personne adulte peut aider ? .................................................. .
+
+---
+
+## Réinvestissement guidé sur papier — Ma charte de sécurité et de respect
 
 Prépare cinq règles simples pour un groupe de classe en ligne.
 
@@ -1656,7 +1858,9 @@ Complète avec : **donnée personnelle – trace – mot de passe – phishing �
 | réagir face à une situation de cyberviolence | □ | □ | □ |
 | respecter l’image et la voix des autres | □ | □ | □ |
 
+
 ---
+
 
 ## Chapitre 7 — Intelligence artificielle
 
@@ -1834,7 +2038,39 @@ Pour demander de l’aide parce que je me sens très mal après des messages re�
 
 ---
 
-## Activité guidée — Utiliser l’IA avec méthode
+## 5. Comment une IA apprend-elle, très simplement ?
+
+Certaines IA repèrent des régularités dans de nombreux exemples. Pour apprendre à distinguer des pommes et des poires, il faut lui montrer beaucoup d’images correctement étiquetées. Si les exemples sont incomplets ou déséquilibrés, l’IA peut faire plus d’erreurs pour certains cas. C’est une raison de vérifier ses résultats au lieu de lui faire confiance automatiquement.
+
+Une IA peut être utile pour trouver des idées, reformuler ou organiser une première version. Elle ne remplace pas ton jugement. Pour une information importante, tu dois toujours chercher une source identifiable et relire le résultat.
+
+### Exercice K — Je repère le risque
+
+1. Une IA reçoit surtout des images de pommes rouges. Elle doit reconnaître une pomme verte :
+   - □ elle peut peut-être se tromper si elle n’a pas vu assez d’exemples variés
+   - □ elle est toujours certaine d’avoir raison
+   - □ la couleur n’a jamais aucune importance
+2. Une réponse d’IA donne une date historique sans source. Je dois :
+   - □ la recopier directement
+   - □ la vérifier dans une source identifiable
+   - □ la publier sans la lire
+
+---
+
+## Approfondissement guidé sur papier — 1 période
+
+Une IA propose un exposé court sur un animal. Le texte paraît bien écrit, mais il ne donne aucune source et affirme que l’animal vit dans un pays où il n’existe pas.
+
+### Exercice L — Je vérifie avant de croire
+
+1. Quel élément du texte doit être vérifié en priorité ? .................................................. .
+2. Pourquoi une phrase bien écrite n’est-elle pas forcément vraie ? .................................................. .
+3. Écris une source que tu pourrais utiliser pour vérifier l’information : .................................................. .
+4. Réécris une consigne plus précise pour demander un exposé avec des sources : .................................................. .
+
+---
+
+## Réinvestissement guidé sur papier — Utiliser l’IA avec méthode
 
 Ton objectif est de préparer un petit plan pour une présentation sur un sujet de cours.
 
@@ -1891,7 +2127,9 @@ Complète avec : **générative – prompt – vérifier – hallucination – b
 | protéger mes données personnelles | □ | □ | □ |
 | choisir un usage responsable de l’IA | □ | □ | □ |
 
+
 ---
+
 
 ## Chapitre 8 — Algorithmique et programmation
 
@@ -2086,7 +2324,47 @@ Coche une piste de recherche utile.
 
 ---
 
-## Activité guidée — Mon mini-jeu à trois vies
+## 5. Des règles logiques avant le programme
+
+Avant d’écrire des blocs Scratch, on peut raisonner avec des règles de la vie quotidienne. Pour entrer dans un lieu sécurisé, il faut parfois une carte **ET** un code. Pour lancer une alerte, il suffit qu’un détecteur de fumée **OU** un détecteur de chaleur se déclenche. Une condition aide le programme à choisir une action.
+
+Un bon programme commence par des instructions précises. Ensuite, on teste une étape à la fois. Lorsqu’un résultat ne correspond pas à ce qui était prévu, on décrit le problème, on formule une hypothèse et on corrige une seule chose avant de tester à nouveau. Cette méthode sert aussi pour réparer un objet, suivre une recette ou résoudre un problème de maths.
+
+### Exercice L — Je choisis la règle
+
+1. La porte s’ouvre si la carte est valable **ET** si le code est correct. Les deux informations doivent être : .................................................. .
+2. Une alarme se déclenche si le détecteur de fumée **OU** le détecteur de chaleur réagit. Une seule information peut être : .................................................. .
+3. Dans un jeu, la partie continue **TANT QUE** le nombre de vies est supérieur à zéro. La partie s’arrête lorsque : .................................................. .
+
+---
+
+## Approfondissement guidé sur papier — 2 périodes
+
+### Période supplémentaire 1 — Programmer sans écran
+
+Un personnage doit avancer sur une grille de quatre cases, tourner à droite puis avancer de deux cases. Les instructions doivent être écrites dans le bon ordre : un programme ne devine pas ce que l’on voulait dire.
+
+### Exercice M — J’écris l’algorithme
+
+Écris les trois étapes dans l’ordre.
+
+1. .................................................. .
+2. .................................................. .
+3. .................................................. .
+
+### Période supplémentaire 2 — Déboguer avec méthode
+
+Un programme doit retirer une vie lorsqu’un personnage touche un obstacle. Pourtant, le nombre de vies reste toujours égal à trois.
+
+### Exercice N — Je cherche le bug
+
+1. Quelle variable faut-il vérifier ? .................................................. .
+2. Quelle action devrait modifier cette variable ? .................................................. .
+3. Pourquoi faut-il tester une seule correction à la fois ? .................................................. .
+
+---
+
+## Réinvestissement guidé sur papier — Mon mini-jeu à trois vies
 
 Prépare le plan d’un mini-jeu Scratch. Le joueur commence avec trois vies. Lorsqu’un événement arrive, il perd une vie. Tant qu’il a des vies, le jeu continue. À zéro, le jeu affiche « Game Over ».
 
